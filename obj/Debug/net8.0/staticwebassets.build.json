@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5NEs3petA8DMC/SDXiw2RbFopWchaEQhFrE7CaA3ZVE=",
+  "Source": "RestaurantFaves",
+  "BasePath": "_content/RestaurantFaves",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

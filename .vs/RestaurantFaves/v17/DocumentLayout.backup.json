@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web Application\\RestaurantFaves\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BE8BEC-C47B-4A84-B961-10C46EEFEC1D}|RestaurantFaves.csproj|d:\\web application\\restaurantfaves\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BE8BEC-C47B-4A84-B961-10C46EEFEC1D}|RestaurantFaves.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BE8BEC-C47B-4A84-B961-10C46EEFEC1D}|RestaurantFaves.csproj|d:\\web application\\restaurantfaves\\models\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BE8BEC-C47B-4A84-B961-10C46EEFEC1D}|RestaurantFaves.csproj|solutionrelative:models\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BE8BEC-C47B-4A84-B961-10C46EEFEC1D}|RestaurantFaves.csproj|d:\\web application\\restaurantfaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BE8BEC-C47B-4A84-B961-10C46EEFEC1D}|RestaurantFaves.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Web Application\\RestaurantFaves\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Web Application\\RestaurantFaves\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:30:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantContext.cs",
+              "DocumentMoniker": "D:\\Web Application\\RestaurantFaves\\Models\\RestaurantContext.cs",
+              "RelativeDocumentMoniker": "Models\\RestaurantContext.cs",
+              "ToolTip": "D:\\Web Application\\RestaurantFaves\\Models\\RestaurantContext.cs",
+              "RelativeToolTip": "Models\\RestaurantContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:25:17.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web Application\\RestaurantFaves\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Web Application\\RestaurantFaves\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:16:52.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
